@@ -40,3 +40,11 @@ The project follows a standard structure with separate directories for server-si
 ## Testing
 
 This project includes Jest for unit testing. You can run tests using the command `npm run test`.
+
+## References
+
+Udacity Front End Web Developer Project 4 Assignment Template
+
+https://github.com/udacity/fend/tree/refresh-2019/projects/evaluate-news-nlp
+
+Udacity Front End Web Developer Build Tools and Single Page Web Apps Content
