@@ -15,10 +15,10 @@ function handleSubmit(event) {
     // })
 
     //check if the input field is not blank
-    const formText = inputField.value.trim(); // Trim whitespace
+    const formText = inputField.value.trim();
     if (formText === '') {
-        alert('Please enter a valid name.'); // Display an alert if the input is blank
-        return; // Prevent form submission
+        alert('Please enter a valid name.');
+        return;
     }
 
     //send a POST request to the server with the text data
